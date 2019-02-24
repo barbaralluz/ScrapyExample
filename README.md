@@ -11,9 +11,9 @@ Para o desenvolvimento foi utilizada a biblioteca [Scrapy](https://scrapy.org/),
 * Versão do Pymongo: 3.7.2 (para conexão com o BD) 
 * Para a instalação dos pacotes foi utilizado o pip (a partir do Python 3.4 já está incluso na instalação do Python) - Versão do pip: pip 18.1
 
-## Passos para executar o projeto:
+## Passo a passo para executar:
 
-> **OBS: O projeto foi criado e executado em um ambiente virtual (virtualenv) no Windows 10, foi necessário instalar os pacotes pypiwin32 e pywin32 para utilizar o Scrapy, porém se o projeto for executado no Linux estes pacotes podem não ser necessários.**
+> **OBS: O projeto foi criado e executado em um ambiente virtual (virtualenv) no Windows, foi necessário instalar os pacotes pypiwin32 e pywin32 para utilizar o Scrapy, porém se o projeto for executado no Linux estes pacotes podem não ser necessários.**
 
 1. Baixe o projeto e vá até o diretório ".\ScrapyExample\scrapy_secretaria_educacao" e execute o seguinte comando para instalar as dependencias do projeto:
 
