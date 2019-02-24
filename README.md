@@ -13,7 +13,7 @@ Para o desenvolvimento foi utilizada a biblioteca [Scrapy](https://scrapy.org/),
 
 ## Passos para executar o projeto:
 
-> **OBS: O projeto foi criado e executado em um ambiente virtual (virtualenv) no Windows 10, foi necessário instalar os pacotes pypiwin32 e pywin32 para utilizar o Scrapy, porém se o projeto for executado no Linux não acredito que estes pacotes sejam necessários.**
+> **OBS: O projeto foi criado e executado em um ambiente virtual (virtualenv) no Windows 10, foi necessário instalar os pacotes pypiwin32 e pywin32 para utilizar o Scrapy, porém se o projeto for executado no Linux estes pacotes podem não ser necessários.**
 
 1. Baixe o projeto e vá até o diretório ".\ScrapyExample\scrapy_secretaria_educacao" e execute o seguinte comando para instalar as dependencias do projeto:
 
